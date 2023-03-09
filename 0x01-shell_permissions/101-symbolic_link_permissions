@@ -1,0 +1,2 @@
+#!/bin/bash
+chmown -h vincent:staff _hello 
