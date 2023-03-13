@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d cC
+tr -d cC
